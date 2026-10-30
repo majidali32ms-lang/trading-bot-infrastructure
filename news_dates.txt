@@ -1,0 +1,31 @@
+# news_dates.txt  --  news_shadow.py yeh file parhti hai
+#
+# Har satar:   YYYY-MM-DD HH:MM  NAAM
+# Waqt NEW YORK ka hai (ET), 24 ghante wala.
+# # se shuru hone wali satar nazarandaz hoti hai.
+#
+# NFP aam tor par khud hisab lag jati hai (har mahine pehla Friday,
+# 08:30 ET). LEKIN chhutti par woh khisak jati hai -- misal 1 January,
+# ya 3 July 2026 (NFP 2 July ko aayi thi). Aisi soorat mein us mahine
+# ki NFP yahan likh dein; likhi hui tareekh khud-hisab ko daba degi.
+#
+# 13 Sep 2026 ko bhara gaya. Aage ki tareekhein barhati rahein.
+# FOMC: federalreserve.gov/monetarypolicy/fomccalendars.htm
+# CPI : bls.gov/schedule/news_release/cpi.htm
+
+# ---- FOMC rate decision (2:00 PM ET) ----
+2026-09-16 14:00  FOMC
+# October 2026: meeting 27-28 Oct, faisla Wed 28 Oct (federalreserve.gov, 7 Oct tasdeeq)
+2026-10-28 14:00  FOMC
+2026-12-09 14:00  FOMC
+
+# ---- CPI (8:30 AM ET) ----
+2026-10-14 08:30  CPI
+2026-11-10 08:30  CPI
+2026-12-10 08:30  CPI
+
+# ---- NFP jo chhutti ki wajah se khisak gayi ----
+# 1 Jan 2027 New Year hai, market band -- NFP agle Friday aayegi.
+2027-01-08 08:30  NFP
+
+# ---- 2027 ke liye yahan barhaayein ----

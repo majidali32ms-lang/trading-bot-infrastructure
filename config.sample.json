@@ -1,0 +1,26 @@
+{
+  "_NOTE": "Sample only. Every figure below is a placeholder, not what the live bot runs. Copy to config.json (git ignores it) and set your own.",
+
+  "magic_number": 1000001,
+  "risk_percent": 0.0,
+  "max_spread_points": 0,
+  "point": 0.01,
+  "min_sl_units": 0.0,
+
+  "max_trades_per_day": 0,
+  "max_consecutive_losses": 0,
+  "max_daily_drawdown_percent": 0.0,
+  "account_max_drawdown_percent": 0.0,
+
+  "breakeven_r": 0.0,
+  "trailing_stop_r": 0.0,
+  "sl_modify_cooldown_sec": 0,
+
+  "sessions": [
+    {"name": "Session A", "start": "00:00", "end": "00:00"},
+    {"name": "Session B", "start": "00:00", "end": "00:00"}
+  ],
+
+  "telegram_token": "PUT YOUR TOKEN IN config.json, NEVER HERE",
+  "telegram_chat_id": "PUT YOUR CHAT ID IN config.json, NEVER HERE"
+}

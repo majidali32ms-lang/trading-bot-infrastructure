@@ -1,0 +1,8 @@
+{
+  "client_id": "YAHAN CLIENT ID",
+  "client_secret": "YAHAN CLIENT SECRET",
+  "access_token": "YAHAN ACCESS TOKEN (Playground se)",
+  "refresh_token": "YAHAN REFRESH TOKEN (Playground se)",
+  "demo": true,
+  "trader_login": 1234567
+}

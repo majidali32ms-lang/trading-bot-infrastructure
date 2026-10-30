@@ -1,0 +1,36 @@
+# ===== credentials — never, in any shape =====
+config.json
+vwap_config.json
+va_config.json
+ctrader_keys.json
+ctrader_keys*.json
+!ctrader_keys_NAMOONA.json
+*.env
+.env*
+*token*
+*secret*
+
+# ===== anything the live bot writes =====
+trades.csv
+trades_*.csv
+events.csv
+events_*.csv
+*.log
+vwap_state.json
+last_alive.json
+report_sent.json
+reminders.json
+mae_state.json
+pending_sldist.json
+
+# ===== working files =====
+__pycache__/
+*.pyc
+*.bak
+*.bak_*
+*.tmp
+*.tmp_*
+logs/
+data/
+backups/
+*.zip
